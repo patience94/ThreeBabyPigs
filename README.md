@@ -11,11 +11,11 @@ Programming 1 수업 이전까지 코딩이나 프로그래밍에 대해서 전�
   ![1](https://user-images.githubusercontent.com/55008408/113832015-29c31600-97c3-11eb-84cb-4d49126bb5ef.gif)
 
 
-### 짚으로 만든 집 파괴
+### 짚 집
   ![2](https://user-images.githubusercontent.com/55008408/113832011-292a7f80-97c3-11eb-99c5-db0471a8d267.gif)
 
 
-### 나무로 만든 집 파괴
+### 나무 집
   ![3](https://user-images.githubusercontent.com/55008408/113832008-2891e900-97c3-11eb-91f7-055b35eb1814.gif)
 
 
@@ -23,7 +23,7 @@ Programming 1 수업 이전까지 코딩이나 프로그래밍에 대해서 전�
   ![4](https://user-images.githubusercontent.com/55008408/113831985-23349e80-97c3-11eb-9a6f-1d93f46b75d3.gif)
 
 
-### 벽돌로 만든 집 파괴실패 및 늑대 부상
+### 벽돌 집
   ![5](https://user-images.githubusercontent.com/55008408/113832027-2b8cd980-97c3-11eb-8f82-ad24acca85d0.gif)
   <br>
   
