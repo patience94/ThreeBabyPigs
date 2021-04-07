@@ -25,6 +25,8 @@ Programming 1 수업 이전까지 코딩이나 프로그래밍에 대해서 전�
 
 ### 벽돌로 만든 집 파괴실패 및 늑대 부상
   ![5](https://user-images.githubusercontent.com/55008408/113832027-2b8cd980-97c3-11eb-8f82-ad24acca85d0.gif)
+  <br>
+  
   쓰러진 늑대를 일으켜 세우느냐, 그대로 세워주기를 거절하느냐에 따라서 엔딩이 달라진다
 
 ### ending #1
