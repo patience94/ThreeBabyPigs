@@ -11,16 +11,25 @@ Programming 1 수업 이전까지 코딩이나 프로그래밍에 대해서 전�
   ![1](https://user-images.githubusercontent.com/55008408/113832015-29c31600-97c3-11eb-84cb-4d49126bb5ef.gif)
 
 
-### 첫쨰 집 파괴
+### 짚으로 만든 집 파괴
   ![2](https://user-images.githubusercontent.com/55008408/113832011-292a7f80-97c3-11eb-99c5-db0471a8d267.gif)
 
 
-![3](https://user-images.githubusercontent.com/55008408/113832008-2891e900-97c3-11eb-91f7-055b35eb1814.gif)
+### 나무로 만든 집 파괴
+  ![3](https://user-images.githubusercontent.com/55008408/113832008-2891e900-97c3-11eb-91f7-055b35eb1814.gif)
 
-![4](https://user-images.githubusercontent.com/55008408/113831985-23349e80-97c3-11eb-9a6f-1d93f46b75d3.gif)
 
-![5](https://user-images.githubusercontent.com/55008408/113832027-2b8cd980-97c3-11eb-8f82-ad24acca85d0.gif)
+### 신경전
+  ![4](https://user-images.githubusercontent.com/55008408/113831985-23349e80-97c3-11eb-9a6f-1d93f46b75d3.gif)
 
-![6](https://user-images.githubusercontent.com/55008408/113832020-2af44300-97c3-11eb-8faf-63a6ee84b6fc.gif)
 
-![ED ver2](https://user-images.githubusercontent.com/55008408/113832030-2c257000-97c3-11eb-8f8d-a1cefa0d48ef.gif)
+### 벽돌로 만든 집 파괴실패 및 늑대 부상
+  ![5](https://user-images.githubusercontent.com/55008408/113832027-2b8cd980-97c3-11eb-8f82-ad24acca85d0.gif)
+  쓰러진 늑대를 일으켜 세우느냐, 그대로 세워주기를 거절하느냐에 따라서 엔딩이 달라진다
+
+### ending #1
+  ![6](https://user-images.githubusercontent.com/55008408/113832020-2af44300-97c3-11eb-8faf-63a6ee84b6fc.gif)
+
+
+### ending #2
+  ![ED ver2](https://user-images.githubusercontent.com/55008408/113832030-2c257000-97c3-11eb-8f8d-a1cefa0d48ef.gif)
