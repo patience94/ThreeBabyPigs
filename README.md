@@ -30,8 +30,10 @@ Programming 1 수업 이전까지 코딩이나 프로그래밍에 대해서 전�
   쓰러진 늑대를 일으켜 세우느냐, 그대로 세워주기를 거절하느냐에 따라서 엔딩이 달라진다
 
 ### ending #1
+
   ![6](https://user-images.githubusercontent.com/55008408/113832020-2af44300-97c3-11eb-8faf-63a6ee84b6fc.gif)
 
 
 ### ending #2
+
   ![ED ver2](https://user-images.githubusercontent.com/55008408/113832030-2c257000-97c3-11eb-8f8d-a1cefa0d48ef.gif)
